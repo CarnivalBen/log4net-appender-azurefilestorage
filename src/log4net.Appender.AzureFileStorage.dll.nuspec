@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>log4net.Appender.AzureFileStorage.dll</id>
+    <version>1.0.0</version>
+    <authors>ben.golden</authors>
+    <owners>ben.golden</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/CarnivalBen/log4net-appender-azurefilestorage</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>log4net Appender for Azure File Storage.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>log4net appender azure file storage logging log</tags>
+    <dependencies>
+      <dependency id="SampleDependency" version="1.0" />
+    </dependencies>
+  </metadata>
+</package>

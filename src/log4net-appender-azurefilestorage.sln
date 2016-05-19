@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.Appender.AzureFileStorage", "log4net.Appender.AzureFileStorage.csproj", "{AD2D59E8-4517-4C08-9F8B-72EEA71B7859}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appender-test", "..\appender-test\appender-test.csproj", "{472F91C3-DFEF-4869-B7B2-1F3D4FB1877C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD2D59E8-4517-4C08-9F8B-72EEA71B7859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2D59E8-4517-4C08-9F8B-72EEA71B7859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2D59E8-4517-4C08-9F8B-72EEA71B7859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2D59E8-4517-4C08-9F8B-72EEA71B7859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472F91C3-DFEF-4869-B7B2-1F3D4FB1877C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472F91C3-DFEF-4869-B7B2-1F3D4FB1877C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472F91C3-DFEF-4869-B7B2-1F3D4FB1877C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472F91C3-DFEF-4869-B7B2-1F3D4FB1877C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
